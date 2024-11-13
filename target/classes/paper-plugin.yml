@@ -1,0 +1,8 @@
+name: DeathStep-1.0
+version: '1.0-SNAPSHOT'
+main: deathstep.deathStep10.DeathStep10
+api-version: '1.21'
+commands:
+  off:
+    description: Turn off the plugin
+    permission: deathstep.off
