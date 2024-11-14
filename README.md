@@ -30,6 +30,11 @@ Otherwise, you can use already **pre-compiled** .jar file, its located in the **
 - Please consider **[PaperMC documentaries](https://docs.papermc.io/paper)** to setup your server.
 
 
+## Config
+- The config file are located in the .resources folder.
+- To correctly use it, look at these [ENUMS]([https://jd.papermc.io/paper/1.21.1/org/bukkit/Material.html](https://jd.papermc.io/paper/1.21.1/org/bukkit/Material.html)).
+
+
 ## Have an issue?
 - Open an **issue** or contact to me on **Telegram**/**Discord**: *@viamanee* | *nolegitplayer*
 
