@@ -25,7 +25,7 @@ Otherwise, you can use already **pre-compiled** .jar file, its located in the **
 
 ## How to run?
 
-- **NOTE** This project **currently** supports only** [PaperMC](https://papermc.io/) ,** also this project tested in 1.20.1 version, so i don't know about others.
+- **NOTE** This project **currently** supports only **[PaperMC](https://papermc.io/)**, also this project tested in 1.20.1 version, so i don't know about others.
 
 - Please consider **[PaperMC documentaries](https://docs.papermc.io/paper)** to setup your server.
 
