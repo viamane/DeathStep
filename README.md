@@ -17,7 +17,7 @@ Minecraft plugin which implements death when Player stepping on specific block!
 - Now, open your terminal and make sure it follows DeathStep **path**.
 - After, you can execute the following command below into your terminal:
 
- 	 mvn clean package
+ 	 	mvn clean package
 
 
 Otherwise, you can use already **pre-compiled** .jar file, its located in the*** project folder***!
