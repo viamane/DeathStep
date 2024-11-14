@@ -20,7 +20,7 @@ Minecraft plugin which implements death when Player stepping on specific block!
  	 	mvn clean package
 
 
-Otherwise, you can use already **pre-compiled** .jar file, its located in the*** project folder***!
+Otherwise, you can use already **pre-compiled** .jar file, its located in the **project folder**!
 
 
 ## How to run?
